@@ -2,7 +2,7 @@
 
 > **Spectroscopy Data Analysis in Python Using [HyperSpy](https://hyperspy.org)**
 
-Tutorial for the **eBEAM2024 school on nano-optics with free electrons**
+Tutorial for the **[eBEAM2024](https://ebeam2024.sciencesconf.org/) school on nano-optics with free electrons**
 
 > Aussois, September 1-13, 2024
 
@@ -18,7 +18,7 @@ To follow the interactive tutorials and make maximum use of the limited time ava
 
 Follow the [installation guide for the HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/install.html).
 
-If you already have python installed on your system and prefer not installing the bundle, we recommend creating a new environment for the tutorial and installing at least the following packages using pip or conda:
+If you already have python installed on your system and prefer not installing the bundle, we recommend creating a new environment for the tutorial and installing at least the following packages using *pip* or *conda*:
 
 ``hyperspy, exspy, lumispy, hyperspy-gui-ipywidgets, jupyter-lab, numba``
 
@@ -26,11 +26,20 @@ Otherwise, have a look at the full [list of packages included in the HyperSpy-bu
 
 ## Download tutorial for local execution:
 
-**[Download the tutorial notebooks and demo data as zip file](https://github.com/LumiSpy/eBEAM2024-Tutorial/archive/refs/heads/main.zip)**
+The tutorials are based on [Jupyter Notebooks](http://jupyter.org/).
+
+**[Download the tutorial notebooks and demo data as zip file](https://github.com/LumiSpy/eBEAM2024-Tutorial/archive/refs/heads/main.zip)** from this repository and unpack in a local directory.
+
+The tutorial is split in three jupyter notebooks to cater both for participants with ot without precious experience using HyperSpy:
+- `1_Intro_HyperSpy-LumiSpy-eXSpy.ipynb` - A basic introduction to HyperSpy to get started with core functionalitie
+- `2_AdvancedExamples_HyperSpy-LumiSpy-eXSpy.ipynb`- Some more advanced usages examples for users with previous experience
+- `3_MachineLearning_Plasmonic_EELS_BlindSourceSeparation.ipynb` - A dedicated file introducing the machine learning features for denoising and decomposition of spectral maps
+
+The relevant datasets are provided in the subfolder `data`.
 
 ## Introduction to python
 
-If you are new to programming or programming with python, we recommend the [W3 schools Python Tutorial](https://www.w3schools.com/python/default.asp)
+If you are new to programming or programming with python, we recommend the [W3 schools Python Tutorial](https://www.w3schools.com/python/default.asp).
 
 
 ## Visualising and running the tutorials online:
