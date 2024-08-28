@@ -20,7 +20,7 @@ Follow the [installation guide for the HyperSpy bundle](https://hyperspy.org/hyp
 
 If you already have python installed on your system and prefer not installing the bundle, we recommend creating a new environment for the tutorial and installing at least the following packages using *pip* or *conda*:
 
-``hyperspy, exspy, lumispy, hyperspy-gui-ipywidgets, jupyter-lab, numba``
+``hyperspy, exspy, lumispy, hyperspy-gui-ipywidgets, jupyter-lab, ipympl, numba``
 
 Otherwise, have a look at the full [list of packages included in the HyperSpy-bundle](https://hyperspy.org/hyperspy-bundle/index.html#included-software-and-libraries).
 
