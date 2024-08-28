@@ -24,6 +24,8 @@ If you already have python installed on your system and prefer not installing th
 
 Otherwise, have a look at the full [list of packages included in the HyperSpy-bundle](https://hyperspy.org/hyperspy-bundle/index.html#included-software-and-libraries).
 
+*(if you run into problems, a number of experienced colleagues can help you in the breaks of the summer school)*
+
 ## Download tutorial for local execution:
 
 The tutorials are based on [Jupyter Notebooks](http://jupyter.org/).
@@ -36,6 +38,12 @@ The tutorial is split in three jupyter notebooks to cater both for participants 
 - `3_MachineLearning_Plasmonic_EELS_BlindSourceSeparation.ipynb` - A dedicated file introducing the machine learning features for denoising and decomposition of spectral maps
 
 The relevant datasets are provided in the subfolder `data`.
+
+## Launch jupyter-lab
+
+If possible, try to already launch `jupyter-lab` on your computer and open the first tutorial notebooks to make sure that we can directly dive into the HyperSpy usage during the tutorials.
+
+There are multiple ways to start `jupyter-lab`, see for example the [JupyterLab User Guide](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html) or the [Ansys JupyterLab Quick Start Guide](https://developer.ansys.com/blog/jupyterlab-quick-start).
 
 ## Introduction to python
 
