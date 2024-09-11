@@ -18,11 +18,13 @@ Edit: The slides from the HyperSpy lecture at the summer school can now also be 
 
 ## Installing HyperSpy
 
-Follow the [installation guide for the HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/install.html).
+Follow the [installation guide for the HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/install.html). The demo notebooks have been tested to run on the HyperSpy bundle version `2024.07.15`. Some of the examples might not run with older HyperSpy versions (`<2.0.0` / bundle releases up to `2023.11.20`) and we do not guarantee for operation with newer HyperSpy versions, though the syntax/API should not change until the next major release (`v3.0.0`) will be released.
 
 If you already have python installed on your system and prefer not installing the bundle, we recommend creating a new environment for the tutorial and installing at least the following packages using *pip* or *conda*:
 
 ``hyperspy, exspy, lumispy, hyperspy-gui-ipywidgets, jupyter-lab, ipympl, scikit-learn, numba``
+
+*Note that you should have at least version `1.26.4` of `numpy` installed.*
 
 Otherwise, have a look at the full [list of packages included in the HyperSpy-bundle](https://hyperspy.org/hyperspy-bundle/index.html#included-software-and-libraries).
 
