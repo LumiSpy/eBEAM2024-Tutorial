@@ -14,6 +14,8 @@ we are happy to introduce you to data analysis using [HyperSpy](https://hyperspy
 
 To follow the interactive tutorials and make maximum use of the limited time available, we kindly ask you to bring your laptop and already install the **[HyperSpy-bundle](https://hyperspy.org/hyperspy-bundle/)** matching your system before coming to the school. The [HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/) ships a python environment including all relevant packages.
 
+Edit: The slides from the HyperSpy lecture at the summer school can now also be found in this repository: [eBEAM24_HyperSpy-LumiSpy-eXSpy.pdf](eBEAM24_HyperSpy-LumiSpy-eXSpy.pdf) (use the rightclick menu to download separately from the rest of the repository).
+
 ## Installing HyperSpy
 
 Follow the [installation guide for the HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/install.html).
