@@ -1,10 +1,11 @@
 channels:
   - conda-forge
 dependencies:
-  - lumispy>=0.2.2
-  - hyperspy-base>=2.0
-  - exspy
-  - hyperspy-gui-ipywidgets>=2.0
-  - ipympl
-  - scikit-learn
-  - numba
+  - lumispy=0.2.2
+  - hyperspy-base=2.1.1
+  - exspy=0.2.1
+  - rosettasciio-base=0.6
+  - hyperspy-gui-ipywidgets=2.0.2
+  - ipympl=0.9.4
+  - scikit-learn=1.5.1
+  - numba=0.60.0
